@@ -52,7 +52,9 @@ This tutorial is about Setting up Development Environment for Matter in Ubuntu O
 
 **Software**
 - Ubuntu OS 22.04 LTS  
-- Matter SDK
+- Matter SDK  
+- Visual Studio Code IDE
+- ESP-IDF Extension in VSCode  
 
 **Hardware**
 - Espressif ESP32C3 and C6 Development Kit  
@@ -61,11 +63,11 @@ This tutorial is about Setting up Development Environment for Matter in Ubuntu O
 
 📕 **YouTube Video Links**  
 
-- This tutorial is divided into two parts. In the first part, we will see how to install, set-up, and configure ESP-Matter-SDK in Ubuntu OS. Then, in next part. The part 2. With the use of ESP-IDF via command-line approach, We will see demo of how to program 2 different ESP32 boards with Matter-Light application firmware. We will program these ESP32 boards as Matter-accessories or end-devices.
+- This tutorial is divided into two parts. In the first part, we will see how to install, set-up, and configure the VSCode and ESP-IDF Extension, in Ubuntu OS. Then, in next part. The part 2. using that setup, We will see demo of how to program 2 different ESP32 boards with Matter firmware. We will program these ESP32 boards as Matter-accessories or end-devices.
 
-▶️  [Tutorial]  Setup Matter Development Environment in Linux - I  - 🔗  https://youtu.be/NFyD5MwxVGw  
+▶️  [Tutorial] Using VSCode with ESP-IDF Extension for Matter Development - I  - 🔗  https://youtu.be/x_sEsYz0qEc  
 
-▶️  [Tutorial]  Setup Matter Development Environment in Linux - II  - 🔗  https://youtu.be/jXPyMQjTEIY  
+▶️  [Tutorial] Using VSCode with ESP-IDF Extension for Matter Development - II  - 🔗  https://youtu.be/  
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
