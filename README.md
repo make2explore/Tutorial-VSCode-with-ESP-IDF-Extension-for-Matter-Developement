@@ -87,7 +87,7 @@ This tutorial is about Setting up Development Environment for Matter in Ubuntu O
 
 📜 Source Code, Circuit Diagrams and Documentation : 
 
-🌐 GitHub Repository - 🔗 https://github.com/make2explore/Tutorial-Installing-ESP-IDF-on-Ubuntu   
+🌐 GitHub Repository - 🔗 🔗https://github.com/make2explore/Tutorial-VSCode-with-ESP-IDF-Extension-for-Matter-Developement   
   
 🌐 Hackster Blog - 🔗 https://www.hackster.io/make2explore  
   
