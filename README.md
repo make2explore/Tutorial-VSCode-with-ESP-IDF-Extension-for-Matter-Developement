@@ -67,7 +67,7 @@ This tutorial is about Setting up Development Environment for Matter in Ubuntu O
 
 ▶️  [Tutorial] Using VSCode with ESP-IDF Extension for Matter Development - I  - 🔗  https://youtu.be/x_sEsYz0qEc  
 
-▶️  [Tutorial] Using VSCode with ESP-IDF Extension for Matter Development - II  - 🔗  https://youtu.be/  
+▶️  [Tutorial] Using VSCode with ESP-IDF Extension for Matter Development - II  - 🔗  https://youtu.be/ugJRDz1-lWQ  
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
