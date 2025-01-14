@@ -1,7 +1,7 @@
 # Tutorial-Using-VSCode-with-ESP-IDF-Extension-for-Matter-Developement
 How to use VSCode with ESP-IDF Extension for Matter Development  
 
-<img src="/Images/matter-VsCode-thmb-1.jpg" height="200" > &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/matter-VsCode-thmb-1.jpg" height="200" > 
+<img src="/Images/matter-VsCode-thmb-1.jpg" height="200" > &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/matter-VsCode-thmb-2.jpg" height="200" > 
   
 **Matter** is a unified IP-based connectivity protocol that is designed to connect and build open, reliable and secure IoT ecosystems. This new technology and connectivity standard enables communication among a wide range of smart devices. Matter supports IP connectivity over Wi-Fi, Thread and Ethernet.  
 
